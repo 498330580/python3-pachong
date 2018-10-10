@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="yaoling.ltd:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.31.80:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.31.80:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="sslConnection" value="true" />
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="192.168.74.128:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
