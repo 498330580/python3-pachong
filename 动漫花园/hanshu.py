@@ -68,9 +68,9 @@ def HTML_DATA(url, start_time, end_time):
     print('开始爬取： %s' % url)
     while True:
         try:
-            data = req.get(url, headers=header, timeout=100).text
+            data = req.get(url, headers=header).text
             break
-        except ConnectionError:
+        except req.exceptions.ConnectionError:
             print('连接失败，正在重试，请稍等......')
             jishi(daojishi_data)
     return data

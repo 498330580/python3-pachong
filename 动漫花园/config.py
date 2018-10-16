@@ -39,7 +39,7 @@ DATA_TIME = 3
 
 # MongoDB设置相关（现在只涉及MongoDB数据库，下一步准备添加其他数据库）
 # mongoDB数据库连接地址
-DATA_LINK = '127.0.0.1'
+DATA_LINK = '192.168.74.128'
 # mongoDB数据库连接端口（默认为27017）
 DATA_PROT = '27017'
 # mongoDB数据库储存表
