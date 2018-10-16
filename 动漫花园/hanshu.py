@@ -21,7 +21,7 @@ import config
 import re
 import pymongo.errors as pe
 
-
+# 最好还是取消代码内部定时设置，直接用定时器
 # 重复抓取等待倒计时函数
 def daojishi(H, M, S):
     print('现在进入等待时间，如需提前结束，请重新运行。')
